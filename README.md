@@ -1,1 +1,2 @@
-# FULL-STACK-PRECTICAL
+# Full-Stack-Project
+This is my full stack Practical
